@@ -1,0 +1,24 @@
+diff --git a/template-config.ini b/fuzzel.ini
+index d1900c0..95d068c 100644
+--- a/fuzzel.ini
++++ b/fuzzel.ini
+@@ -26,12 +26,13 @@
+ # exit-on-keyboard-focus-loss = yes
+ 
+ [colors]
+-# background=fdf6e3dd
+-# text=657b83ff
+-# match=cb4b16ff
+-# selection=eee8d5dd
+-# selection-text=657b83ff
+-# border=002b36ff
++background=282a36dd
++text=f8f8f2ff
++match=8be9fdff
++selection-match=8be9fdff
++selection=44475add
++selection-text=f8f8f2ff
++border=bd93f9ff
+ 
+ [border]
+ # width=1
