@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/fuzzel](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/fuzzel/graphs/contributors).
 
 | [![milkknife](https://github.com/milkknife.png?size=100)](https://github.com/milkknife) |
 | ---------------------------------------------------------------------------------------- |
